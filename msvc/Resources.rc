@@ -1,0 +1,534 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_CLOSEOFF            BITMAP  DISCARDABLE     "title_bar_close_off.bmp"
+IDB_CLOSEON             BITMAP  DISCARDABLE     "title_bar_close_on.bmp"
+IDB_CLOSEOVER           BITMAP  DISCARDABLE     "title_bar_close_over.bmp"
+IDB_MAXDISABLED         BITMAP  DISCARDABLE     "title_bar_max_disabled.bmp"
+IDB_MAXOFF              BITMAP  DISCARDABLE     "title_bar_max_off.bmp"
+IDB_MAXON               BITMAP  DISCARDABLE     "title_bar_max_on.bmp"
+IDB_MAXOVER             BITMAP  DISCARDABLE     "title_bar_max_over.bmp"
+IDB_MINOFF              BITMAP  DISCARDABLE     "title_bar_min_off.bmp"
+IDB_MINON               BITMAP  DISCARDABLE     "title_bar_min_on.bmp"
+IDB_MINOVER             BITMAP  DISCARDABLE     "title_bar_min_over.bmp"
+IDB_RESTOREOFF          BITMAP  DISCARDABLE     "title_bar_restore_off.bmp"
+IDB_RESTOREON           BITMAP  DISCARDABLE     "title_bar_restore_on.bmp"
+IDB_RESTOREOVER         BITMAP  DISCARDABLE     "title_bar_restore_over.bmp"
+IDB_TITLEBAR            BITMAP  DISCARDABLE     "TitleBar.bmp"
+IDB_TOOLTIPLEFT         BITMAP  DISCARDABLE     "ToolTip left.bmp"
+IDB_TOOLTIPRIGHT        BITMAP  DISCARDABLE     "Tooltip right.bmp"
+IDB_TOOLTIP             BITMAP  DISCARDABLE     "Tooltip.bmp"
+IDB_STARFIELDBACK       BITMAP  DISCARDABLE     "StarfieldBack.bmp"
+IDB_NEWOFF              BITMAP  DISCARDABLE     "New off.BMP"
+IDB_NEWON               BITMAP  DISCARDABLE     "New on.BMP"
+IDB_NEWOVER             BITMAP  DISCARDABLE     "New over.BMP"
+IDB_EXITOVER            BITMAP  DISCARDABLE     "Exit_over.bmp"
+IDB_EXITON              BITMAP  DISCARDABLE     "Exit_on.bmp"
+IDB_EXITOFF             BITMAP  DISCARDABLE     "Exit_off.bmp"
+IDB_BACKGROUNDOFF       BITMAP  DISCARDABLE     "Background off.BMP"
+IDB_BACKGROUNDON        BITMAP  DISCARDABLE     "Background on.BMP"
+IDB_BACKGROUNDOVER      BITMAP  DISCARDABLE     "Background over.BMP"
+IDB_STARFIELDOVER       BITMAP  DISCARDABLE     "Star field over.BMP"
+IDB_STARFIELDON         BITMAP  DISCARDABLE     "Star field on.BMP"
+IDB_STARFIELDOFF        BITMAP  DISCARDABLE     "Star field off.BMP"
+IDB_RANDOMOVER          BITMAP  DISCARDABLE     "Random over.BMP"
+IDB_RANDOMON            BITMAP  DISCARDABLE     "Random on.BMP"
+IDB_RANDOMOFF           BITMAP  DISCARDABLE     "Random off.BMP"
+IDB_SOLIDCOLOUROVER     BITMAP  DISCARDABLE     "Solid colour over.BMP"
+IDB_SOLIDCOLOURON       BITMAP  DISCARDABLE     "Solid colour on.BMP"
+IDB_SOLIDCOLOUROFF      BITMAP  DISCARDABLE     "Solid colour off.BMP"
+IDB_UNDOREDOOVER        BITMAP  DISCARDABLE     "undo redo over.BMP"
+IDB_UNDOREDOON          BITMAP  DISCARDABLE     "undo redo on.BMP"
+IDB_UNDOREDOOFF         BITMAP  DISCARDABLE     "undo redo off.BMP"
+IDB_BUFFERSWAPOVER      BITMAP  DISCARDABLE     "BufferSwap over.BMP"
+IDB_BUFFERLOADON        BITMAP  DISCARDABLE     "BufferLoad on.BMP"
+IDB_BUFFERLOADOVER      BITMAP  DISCARDABLE     "BufferLoad over.BMP"
+IDB_BUFFERSAVEOFF       BITMAP  DISCARDABLE     "BufferSave off.BMP"
+IDB_BUFFERSAVEON        BITMAP  DISCARDABLE     "BufferSave on.BMP"
+IDB_BUFFERSAVEOVER      BITMAP  DISCARDABLE     "BufferSave over.BMP"
+IDB_BUFFERSWAPOFF       BITMAP  DISCARDABLE     "BufferSwap off.BMP"
+IDB_BUFFERSWAPON        BITMAP  DISCARDABLE     "BufferSwap on.BMP"
+IDB_BUFFERLOADOFF       BITMAP  DISCARDABLE     "BufferLoad off.BMP"
+IDB_VIEWIMAGEOVER       BITMAP  DISCARDABLE     "View Image over.BMP"
+IDB_VIEWIMAGEON         BITMAP  DISCARDABLE     "View Image on.BMP"
+IDB_VIEWIMAGEOFF        BITMAP  DISCARDABLE     "View Image off.BMP"
+IDB_VIEWBUFFEROVER      BITMAP  DISCARDABLE     "View Buffer over.BMP"
+IDB_VIEWBUFFERON        BITMAP  DISCARDABLE     "View Buffer on.BMP"
+IDB_VIEWBUFFEROFF       BITMAP  DISCARDABLE     "View Buffer off.BMP"
+IDB_NEBULAOVER          BITMAP  DISCARDABLE     "Nebula over.BMP"
+IDB_NEBULAON            BITMAP  DISCARDABLE     "Nebula on.BMP"
+IDB_NEBULAOFF           BITMAP  DISCARDABLE     "Nebula off.BMP"
+IDB_SAVEOVER            BITMAP  DISCARDABLE     "Save over.BMP"
+IDB_SAVEON              BITMAP  DISCARDABLE     "Save on.BMP"
+IDB_SAVEOFF             BITMAP  DISCARDABLE     "Save off.BMP"
+IDB_DRAWOVER            BITMAP  DISCARDABLE     "Draw over.BMP"
+IDB_DRAWON              BITMAP  DISCARDABLE     "Draw on.BMP"
+IDB_DRAWOFF             BITMAP  DISCARDABLE     "Draw off.BMP"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_MULTISOFT           ICON    DISCARDABLE     "MultiSoft.ico"
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English (Australia) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENA)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_AUS
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_HIDEOVER            BITMAP  DISCARDABLE     "Hide over.BMP"
+IDB_BUFFERON            BITMAP  DISCARDABLE     "Buffer on.BMP"
+IDB_BUFFEROVER          BITMAP  DISCARDABLE     "Buffer over.BMP"
+IDB_HIDEOFF             BITMAP  DISCARDABLE     "Hide off.BMP"
+IDB_HIDEON              BITMAP  DISCARDABLE     "Hide on.BMP"
+IDB_BUFFEROFF           BITMAP  DISCARDABLE     "Buffer off.BMP"
+IDB_ABORTOVER           BITMAP  DISCARDABLE     "Abort over.BMP"
+IDB_ABORTON             BITMAP  DISCARDABLE     "Abort on.BMP"
+IDB_ABORTOFF            BITMAP  DISCARDABLE     "Abort off.BMP"
+IDB_ABORTDISABLED       BITMAP  DISCARDABLE     "Abort disabled.BMP"
+IDB_OPENOVER            BITMAP  DISCARDABLE     "Open over.BMP"
+IDB_OPENON              BITMAP  DISCARDABLE     "Open on.BMP"
+IDB_OPENOFF             BITMAP  DISCARDABLE     "Open off.BMP"
+IDB_ADVANCEDOVER        BITMAP  DISCARDABLE     "Advanced over.BMP"
+IDB_ADVANCEDON          BITMAP  DISCARDABLE     "Advanced on.BMP"
+IDB_ADVANCEDOFF         BITMAP  DISCARDABLE     "Advanced off.BMP"
+IDB_UNDERLAYIMAGEON     BITMAP  DISCARDABLE     "Underlay Image on.BMP"
+IDB_UNDERLAYIMAGEOFF    BITMAP  DISCARDABLE     "Underlay Image off.BMP"
+IDB_UNDERLAYIMAGEOVER   BITMAP  DISCARDABLE     "Underlay Image over.BMP"
+IDB_OVERLAYIMAGEON      BITMAP  DISCARDABLE     "Overlay Image on.BMP"
+IDB_OVERLAYIMAGEOFF     BITMAP  DISCARDABLE     "Overlay Image off.BMP"
+IDB_OVERLAYIMAGEOVER    BITMAP  DISCARDABLE     "Overlay Image over.BMP"
+IDB_MERGEIMAGESOVER     BITMAP  DISCARDABLE     "Merge Images over.BMP"
+IDB_MERGEIMAGESON       BITMAP  DISCARDABLE     "Merge Images on.BMP"
+IDB_MERGEIMAGESOFF      BITMAP  DISCARDABLE     "Merge Images off.BMP"
+IDB_MISCFILTERSOVER     BITMAP  DISCARDABLE     "MiscFilters over.BMP"
+IDB_MISCFILTERSON       BITMAP  DISCARDABLE     "MiscFilters on.BMP"
+IDB_MISCFILTERSOFF      BITMAP  DISCARDABLE     "MiscFilters off.BMP"
+IDB_SMOOTHOVER          BITMAP  DISCARDABLE     "Smooth over.BMP"
+IDB_SMOOTHON            BITMAP  DISCARDABLE     "Smooth on.BMP"
+IDB_SMOOTHOFF           BITMAP  DISCARDABLE     "Smooth off.BMP"
+IDB_STARON              BITMAP  DISCARDABLE     "Star on.BMP"
+IDB_STAROFF             BITMAP  DISCARDABLE     "Star off.BMP"
+IDB_STAROVER            BITMAP  DISCARDABLE     "Star over.BMP"
+IDB_BASICSOVER          BITMAP  DISCARDABLE     "Basics over.BMP"
+IDB_BASICSON            BITMAP  DISCARDABLE     "Basics on.BMP"
+IDB_BASICSOFF           BITMAP  DISCARDABLE     "Basics off.BMP"
+IDB_SURFACEOFF          BITMAP  DISCARDABLE     "Surface off.BMP"
+IDB_FLARESON            BITMAP  DISCARDABLE     "Flares on.BMP"
+IDB_FLARESOVER          BITMAP  DISCARDABLE     "Flares over.BMP"
+IDB_FLARESOFF           BITMAP  DISCARDABLE     "Flares off.BMP"
+IDB_SURFACEON           BITMAP  DISCARDABLE     "Surface on.BMP"
+IDB_SURFACEOVER         BITMAP  DISCARDABLE     "Surface over.BMP"
+IDB_PLACESTAROVER       BITMAP  DISCARDABLE     "PlaceStar over.BMP"
+IDB_PLACESTARON         BITMAP  DISCARDABLE     "PlaceStar on.BMP"
+IDB_PLACESTAROFF        BITMAP  DISCARDABLE     "PlaceStar off.BMP"
+IDB_CORONASIZEOVER      BITMAP  DISCARDABLE     "CoronaSize over.BMP"
+IDB_CORONASIZEON        BITMAP  DISCARDABLE     "CoronaSize on.BMP"
+IDB_CORONASIZEOFF       BITMAP  DISCARDABLE     "CoronaSize off.BMP"
+IDB_STARSIZEOFF         BITMAP  DISCARDABLE     "StarSize off.BMP"
+IDB_STARSIZEON          BITMAP  DISCARDABLE     "StarSize on.BMP"
+IDB_STARSIZEOVER        BITMAP  DISCARDABLE     "StarSize over.BMP"
+IDB_STARCOLOUROVER      BITMAP  DISCARDABLE     "StarColour over.BMP"
+IDB_STARCOLOURON        BITMAP  DISCARDABLE     "StarColour on.BMP"
+IDB_STARCOLOUROFF       BITMAP  DISCARDABLE     "StarColour off.BMP"
+IDB_UNLOCKOFF           BITMAP  DISCARDABLE     "Unlock off.BMP"
+IDB_PLACESTARDISABLED   BITMAP  DISCARDABLE     "PlaceStar Disabled.BMP"
+IDB_STARCOLOURDISABLED  BITMAP  DISCARDABLE     "StarColour disabled.BMP"
+IDB_UNLOCKDISABLED      BITMAP  DISCARDABLE     "Unlock disabled.BMP"
+IDB_CORONASIZEDISABLED  BITMAP  DISCARDABLE     "CoronaSize disabled.BMP"
+IDB_UNLOCKON            BITMAP  DISCARDABLE     "Unlock on.BMP"
+IDB_UNLOCKOVER          BITMAP  DISCARDABLE     "Unlock over.BMP"
+IDB_STARSIZEDISABLED    BITMAP  DISCARDABLE     "StarSize disabled.BMP"
+IDB_RANDOMDISABLED      BITMAP  DISCARDABLE     "Random disabled.BMP"
+IDB_DRAWDISABLED        BITMAP  DISCARDABLE     "Draw disabled.BMP"
+IDB_ADVANCEDDISABLED    BITMAP  DISCARDABLE     "Advanced disabled.BMP"
+IDB_WINDOWBACKGROUND    BITMAP  DISCARDABLE     "Window background.BMP"
+IDB_BRUSHNOTHING        BITMAP  DISCARDABLE     "Brush - Nothing to see here.bmp"
+IDB_FINISHSTAROVER      BITMAP  DISCARDABLE     "FinishStar over.BMP"
+IDB_CLEARSTAROFF        BITMAP  DISCARDABLE     "ClearStar off.BMP"
+IDB_CLEARSTARON         BITMAP  DISCARDABLE     "ClearStar on.BMP"
+IDB_CLEARSTAROVER       BITMAP  DISCARDABLE     "ClearStar over.BMP"
+IDB_FINISHSTARDISABLED  BITMAP  DISCARDABLE     "FinishStar disabled.BMP"
+IDB_FINISHSTAROFF       BITMAP  DISCARDABLE     "FinishStar off.BMP"
+IDB_FINISHSTARON        BITMAP  DISCARDABLE     "FinishStar on.BMP"
+IDB_CLEARSTARDISABLED   BITMAP  DISCARDABLE     "ClearStar disabled.BMP"
+IDB_EXPORTSTAROVER      BITMAP  DISCARDABLE     "ExportStar over.BMP"
+IDB_EXPORTSTAROFF       BITMAP  DISCARDABLE     "ExportStar off.BMP"
+IDB_EXPORTSTARON        BITMAP  DISCARDABLE     "ExportStar on.BMP"
+IDB_EXPORTSTARDISABLED  BITMAP  DISCARDABLE     "ExportStar disabled.BMP"
+IDB_HELPOVER            BITMAP  DISCARDABLE     "Help over.BMP"
+IDB_HELPON              BITMAP  DISCARDABLE     "Help on.BMP"
+IDB_HELPOFF             BITMAP  DISCARDABLE     "Help off.BMP"
+IDB_GRADIENTOVER        BITMAP  DISCARDABLE     "Gradient over.BMP"
+IDB_GRADIENTON          BITMAP  DISCARDABLE     "Gradient on.BMP"
+IDB_GRADIENTOFF         BITMAP  DISCARDABLE     "Gradient off.BMP"
+IDB_HSCROLLTRACK        BITMAP  DISCARDABLE     "HScroll Track.BMP"
+IDB_HSCROLLLARROWON     BITMAP  DISCARDABLE     "HScroll LArrow on.BMP"
+IDB_HSCROLLLARROWOVER   BITMAP  DISCARDABLE     "HScroll LArrow over.BMP"
+IDB_HSCROLLLARROWOFF    BITMAP  DISCARDABLE     "HScroll LArrow off.BMP"
+IDB_HSCROLLRARROWOVER   BITMAP  DISCARDABLE     "HScroll RArrow over.BMP"
+IDB_HSCROLLRARROWON     BITMAP  DISCARDABLE     "HScroll RArrow on.BMP"
+IDB_HSCROLLRARROWOFF    BITMAP  DISCARDABLE     "HScroll RArrow off.BMP"
+IDB_HSCROLLBAR          BITMAP  DISCARDABLE     "HScroll Bar.BMP"
+IDB_HSCROLLBARLEFT      BITMAP  DISCARDABLE     "HScroll BarLeft.BMP"
+IDB_HSCROLLBARRIGHT     BITMAP  DISCARDABLE     "HScroll BarRight.BMP"
+IDB_HSCROLLRARROWDISABLED BITMAP  DISCARDABLE     "HScroll RArrow disabled.BMP"
+IDB_HSCROLLLARROWDISABLED BITMAP  DISCARDABLE     "HScroll LArrow disabled.BMP"
+IDB_ANIMATIONOVER       BITMAP  DISCARDABLE     "Animation over.BMP"
+IDB_ANIMATIONOFF        BITMAP  DISCARDABLE     "Animation off.BMP"
+IDB_ANIMATIONON         BITMAP  DISCARDABLE     "Animation on.BMP"
+IDB_ANIMATIONDISABLED   BITMAP  DISCARDABLE     "Animation disabled.BMP"
+IDB_GRADIENTDISABLED    BITMAP  DISCARDABLE     "Gradient disabled.BMP"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_NEBULA DIALOG DISCARDABLE  0, 0, 200, 214
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Nebula Options"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "&Close",IDC_CLOSE,136,192,57,14
+    LTEXT           "&Number:",IDC_LBLNUMBER,7,7,57,9
+    CONTROL         "Slider1",IDC_SLDNUMBER,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,7,16,56,14
+    LTEXT           "Curr&ent:",IDC_LBLCURRENT,7,32,57,8
+    CONTROL         "Slider2",IDC_SLDCURRENT,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,7,40,56,14
+    LTEXT           "Previ&ous Image:",IDC_LBLPREVIOUS,72,7,56,9
+    CONTROL         "Erase",IDC_OPTPREVIOUSERASE,"Button",BS_AUTORADIOBUTTON | 
+                    WS_GROUP,72,16,56,8
+    CONTROL         "Underlay",IDC_OPTPREVIOUSUNDERLAY,"Button",
+                    BS_AUTORADIOBUTTON,72,24,56,8
+    CONTROL         "Merge",IDC_OPTPREVIOUSOVERLAY,"Button",
+                    BS_AUTORADIOBUTTON,72,32,56,8
+    LTEXT           "Interpol&ation:",IDC_LBLINTERPOLATION,137,7,56,9
+    CONTROL         "Linear",IDC_OPTINTERPOLATELINEAR,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP,137,16,56,8
+    CONTROL         "Cosine",IDC_OPTINTERPOLATECOSINE,"Button",
+                    BS_AUTORADIOBUTTON,137,24,56,8
+    CONTROL         "Cubic",IDC_OPTINTERPOLATECUBIC,"Button",
+                    BS_AUTORADIOBUTTON,137,32,56,8
+    PUSHBUTTON      "Gradient&...",IDC_GRADIENT,7,58,57,14
+    PUSHBUTTON      "Co&lour...",IDC_COLOUR,71,58,57,14
+    LTEXT           "&Seed:",IDC_LBLSEED,7,80,56,8
+    EDITTEXT        IDC_TXTSEED,7,88,56,14,ES_AUTOHSCROLL | ES_NUMBER
+    LTEXT           "&Persistence %:",IDC_LBLPERSISTENCE,7,104,56,8
+    EDITTEXT        IDC_TXTPERSISTENCE,7,112,56,14,ES_AUTOHSCROLL | 
+                    ES_NUMBER
+    LTEXT           "Oc&taves:",IDC_LBLOCTAVES,72,80,56,8
+    EDITTEXT        IDC_TXTOCTAVES,72,88,56,14,ES_AUTOHSCROLL | ES_NUMBER
+    LTEXT           "First Octa&ve:",IDC_LBLFIRSTOCTAVE,72,104,56,8
+    EDITTEXT        IDC_TXTFIRSTOCTAVE,72,112,56,14,ES_AUTOHSCROLL | 
+                    ES_NUMBER
+    LTEXT           "&Red Variance:",IDC_LBLRED,137,56,56,8
+    EDITTEXT        IDC_TXTRED,137,64,56,14,ES_AUTOHSCROLL | ES_NUMBER
+    LTEXT           "&Green Variance:",IDC_LBLGREEN,137,80,56,8
+    EDITTEXT        IDC_TXTGREEN,137,88,56,14,ES_AUTOHSCROLL | ES_NUMBER
+    LTEXT           "&Blue Variance:",IDC_LBLBLUE,137,104,56,8
+    EDITTEXT        IDC_TXTBLUE,137,112,56,14,ES_AUTOHSCROLL | ES_NUMBER
+    CONTROL         "B&ug",IDC_CHKBUG,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,
+                    81,140,41,8
+    CONTROL         "Hori&zontal Tile",IDC_CHKTILEH,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,15,140,63,8
+    CONTROL         "Smoot&h",IDC_CHKSMOOTH,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,81,148,41,8
+    PUSHBUTTON      "Last See&ds",IDC_LASTSEEDS,7,170,57,14
+    PUSHBUTTON      "De&faults",IDC_DEFAULTS,72,170,57,14
+    PUSHBUTTON      "Rando&mise",IDC_RANDOMISE,136,170,57,14
+    CONTROL         "Vertical T&ile",IDC_CHKTILEV,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,15,148,63,8
+    GROUPBOX        "",IDC_FRACOMMONLAYERS,7,128,186,34
+    PUSHBUTTON      "Appl&y to all Layers",IDC_APPLYALL,128,136,56,22,
+                    BS_MULTILINE
+END
+
+IDD_NEW DIALOG DISCARDABLE  0, 0, 135, 109
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "New Image"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,78,88,50,14
+    CONTROL         "&Dimensions:",IDC_LBLDIMENSIONS,"Static",
+                    SS_LEFTNOWORDWRAP | WS_GROUP,7,7,39,8
+    COMBOBOX        IDC_DIMENSIONS,7,17,121,65,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "&Width:",IDC_LBLWIDTH,31,38,22,8
+    EDITTEXT        IDC_WIDTH,66,35,62,14,ES_AUTOHSCROLL | ES_NUMBER
+    LTEXT           "&Height:",IDC_LBLHEIGHT,29,57,24,8
+    EDITTEXT        IDC_HEIGHT,66,54,62,14,ES_AUTOHSCROLL | ES_NUMBER
+    CONTROL         "Resize the &Buffer",IDC_RESIZEBUFFER,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,7,73,121,10
+    PUSHBUTTON      "Cancel",IDCANCEL,7,88,50,14
+END
+
+IDD_MERGE DIALOG DISCARDABLE  0, 0, 186, 95
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Merge"
+FONT 8, "MS Sans Serif"
+BEGIN
+    SCROLLBAR       IDC_MERGEAMOUNT,7,7,172,11,WS_TABSTOP
+    CONTROL         "Custom1",IDC_MERGEPREVIEW,"MultiSoftGWndCon",0x0,73,25,
+                    40,30
+    LTEXT           "Image 50%",IDC_LBLIMAGE,7,20,53,8
+    RTEXT           "50% Buffer",IDC_LBLBUFFER,126,20,53,8
+    PUSHBUTTON      "Cancel",IDCANCEL,7,74,50,14
+    DEFPUSHBUTTON   "OK",IDOK,129,74,50,14
+END
+
+IDD_GRADIENT DIALOG DISCARDABLE  0, 0, 370, 85
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Gradient"
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "&Use Gradient",IDC_CHKUSEGRAD,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,7,7,57,10
+    CONTROL         "Gradient",IDC_GRADIENTDISPLAY,"MultiSoftGWndCon",0x0,7,
+                    23,356,34
+    PUSHBUTTON      "&Generate",IDC_GENERATE,7,64,50,14
+    PUSHBUTTON      "Generate using current &nebula parameters",
+                    IDC_GENERATENEBPARAMS,95,64,180,14
+    DEFPUSHBUTTON   "&Close",IDCLOSE,313,64,50,14
+END
+
+IDD_NEBULAANIM DIALOG DISCARDABLE  0, 0, 134, 105
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Animation"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "O&K",IDOK,77,84,50,14
+    PUSHBUTTON      "&Cancel",IDCANCEL,7,84,50,14
+    CONTROL         "&Animate Nebula",IDC_CHKANIMATE,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,7,7,66,10
+    CONTROL         "Make the animation &loop",IDC_CHKLOOP,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,7,51,93,10
+    LTEXT           "Ke&y Frames:",IDC_LBLKEYFRAMES,7,20,40,8
+    EDITTEXT        IDC_KEYFRAMES,102,17,25,14,ES_AUTOHSCROLL | ES_NUMBER
+    LTEXT           "&Frames Per Keyframe:",IDC_LBLFRAMESPERKEY,7,36,70,8
+    EDITTEXT        IDC_FRAMESPERKEY,102,33,25,14,ES_AUTOHSCROLL | ES_NUMBER
+    CONTROL         "&Smooth the animation's time axis",IDC_CHKSMOOTH,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,7,67,117,10
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_NEBULA, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 193
+        VERTGUIDE, 64
+        VERTGUIDE, 72
+        VERTGUIDE, 128
+        VERTGUIDE, 137
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 207
+        HORZGUIDE, 16
+        HORZGUIDE, 24
+        HORZGUIDE, 32
+        HORZGUIDE, 40
+        HORZGUIDE, 48
+        HORZGUIDE, 56
+        HORZGUIDE, 64
+        HORZGUIDE, 72
+        HORZGUIDE, 80
+        HORZGUIDE, 88
+        HORZGUIDE, 96
+        HORZGUIDE, 104
+        HORZGUIDE, 112
+        HORZGUIDE, 120
+        HORZGUIDE, 128
+        HORZGUIDE, 136
+        HORZGUIDE, 144
+        HORZGUIDE, 154
+        HORZGUIDE, 162
+        HORZGUIDE, 176
+        HORZGUIDE, 184
+        HORZGUIDE, 192
+    END
+
+    IDD_NEW, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 128
+        VERTGUIDE, 53
+        VERTGUIDE, 66
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 102
+        HORZGUIDE, 23
+        HORZGUIDE, 42
+        HORZGUIDE, 61
+        HORZGUIDE, 78
+    END
+
+    IDD_MERGE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 179
+        VERTGUIDE, 60
+        VERTGUIDE, 93
+        VERTGUIDE, 126
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 88
+        HORZGUIDE, 24
+    END
+
+    IDD_GRADIENT, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 363
+        VERTGUIDE, 185
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 78
+    END
+
+    IDD_NEBULAANIM, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 127
+        VERTGUIDE, 102
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 98
+        HORZGUIDE, 24
+        HORZGUIDE, 40
+        HORZGUIDE, 56
+        HORZGUIDE, 72
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 0,3,0,0
+ PRODUCTVERSION 0,3,0,0
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x29L
+#else
+ FILEFLAGS 0x28L
+#endif
+ FILEOS 0x40004L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "0c0904b0"
+        BEGIN
+            VALUE "Comments", "Thankyou for downloading the Sun Project Interactive!\0"
+            VALUE "CompanyName", "Multiverse Software\0"
+            VALUE "FileDescription", "Sun Project Interactive\0"
+            VALUE "FileVersion", "0, 3, 0, 0\0"
+            VALUE "InternalName", "Sun Project Interactive\0"
+            VALUE "LegalCopyright", "Copyright © 2003-2004\0"
+            VALUE "LegalTrademarks", " \0"
+            VALUE "OriginalFilename", "Sun Project Interactive.exe\0"
+            VALUE "PrivateBuild", " \0"
+            VALUE "ProductName", "Multiverse Software Sun Project Interactive\0"
+            VALUE "ProductVersion", "0, 3, 0, 0\0"
+            VALUE "SpecialBuild", " \0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0xc09, 1200
+    END
+END
+
+#endif    // !_MAC
+
+#endif    // English (Australia) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

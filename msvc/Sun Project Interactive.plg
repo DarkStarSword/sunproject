@@ -1,0 +1,37 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Sun Project Interactive - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\WINDOWS\TEMP\RSP90D4.TMP" with contents
+[
+/nologo /ML /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Release/Sun Project Interactive.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\From D\MyPrograms\Sun Project Interactive\Driver.cpp"
+]
+Creating command line "cl.exe @C:\WINDOWS\TEMP\RSP90D4.TMP" 
+Creating temporary file "C:\WINDOWS\TEMP\RSP90D5.TMP" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/Sun Project Interactive.pdb" /machine:I386 /out:"Release/Sun Project Interactive.exe" 
+".\Release\BitmapOps.obj"
+".\Release\Driver.obj"
+".\Release\MultiSoftGControls.obj"
+".\Release\PublicStuff.obj"
+".\Release\SunProject.obj"
+".\Release\Resources.res"
+]
+Creating command line "link.exe @C:\WINDOWS\TEMP\RSP90D5.TMP"
+<h3>Output Window</h3>
+Compiling...
+Driver.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Sun Project Interactive.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

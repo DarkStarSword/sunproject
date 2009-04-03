@@ -1,0 +1,57 @@
+<HTML><HEAD><TITLE>The Sun Project Interactive Help</TITLE>
+<LINK HREF="stylesheets/default.css" REL=StyleSheet>
+</HEAD>
+<BODY>
+	<H1><P ALIGN=CENTER>The Sun Project Interactive Help</P></H1>
+	<H2><P ALIGN=CENTER>The Buffer Explained</P></H2>
+	<P><TABLE WIDTH=100%><TR><TD WIDTH=33% ALIGN=LEFT>
+		<A HREF="files.htm">&lt;-- Previous</A>
+	</TD><TD WIDTH=33% ALIGN=CENTER>
+		<A HREF="index.html">Contents</A>
+	</TD><TD WIDTH=33% ALIGN=RIGHT>
+		<A !HREF="">Next --></A>
+	</TD></TR></TABLE></P>
+	
+	<P>
+	The buffer can be used as an extended undo - put something in the buffer and it will stay there until you overwrite it. For example, if you have just drawn a really good nebula, and are about to do something to it, but aren't sure whether the result will be good, put the nebula in the buffer. If the result isn't as good as you hoped, restore the nebula from the buffer and try something else.<BR>
+	The buffer can also be combined with the image in various ways to create interesting effects.
+	</P>
+	
+	<TABLE ALIGN=CENTER WIDTH=75%><TR><TD>
+		To display the buffer controls, click on the "Buffer Controls" button.<BR>The following panel will appear:
+	</TD><TD>
+		<IMG SRC="images/screenshots/popbuffer.png">
+	</TD></TR></TABLE>
+	<UL>
+	A description of each item follows:
+	<LI><B>Image -&gt; Buffer</B> - This copies the contents of the current image into the buffer. The buffer will be resized to the dimensions of the image. Be aware that this will not copy an unfinished star.
+	<LI><B>Image &lt;- Buffer</B> - This copies the contents of the buffer into the current image. The image will be resized to the dimensions of the buffer.
+	<LI><B>Image &lt;&gt; Buffer</B> - This swaps the image and the buffer. That is, the current image is put in the buffer and replaced with whatever was in the buffer. This is faster than copying one into the other.
+	<LI><B>View Buffer</B> - This will bring up a window that is very similar to the "View Image" window. The controls are the same (left click to move the image, right click to toggle stretching).
+	<LI><B>Overlay Image</B> - This will put the image 'above' the buffer. That is, the darker areas of the image will let the contents of the buffer show through, but the brighter areas will cover the buffer. The image and buffer do not have to be the same dimensions for this, and the buffer remains unchanged.
+	<LI><B>Underlay Image</B> - This will put the image 'below' the buffer. That is, the buffer will be copied onto the image, with the dark parts of the buffer letting the image show through, and the bright parts covering up the image. The image and buffer do not have to be the same dimensions for this, and the buffer remains unchanged.
+	<LI><B>Merge Images</B> - This merges the image and the buffer together. It brings up a dialog that allows you to select the percentage of the image and buffer to merge. The image and buffer do not have to be the same dimensions for this, and the buffer remains unchanged.
+	</UL>
+	
+	<P ALIGN=CENTER><IMAGE SRC="images/Underlay1.jpg" CLASS="Double"><BR>
+	A nebula with parameters designed to look like orange paint<BR>
+	was placed in the buffer. Another nebula was then created.<BR>
+	"Underlay Image" was then used to put the paint on the nebula.</P>
+	<P ALIGN=CENTER><IMAGE SRC="images/Terragen1.jpg" CLASS="Double"><BR>
+	This technique was used to replace the sky that Terragen usually<BR>
+	draws with a multi-layered nebula, and a different sun.<BR>
+	The foreground of this image was created using Terragen.<BR>
+	It was placed in the buffer while the background was prepared.<BR>
+	"Underlay Image" was then used to let the image show through the<BR>
+	black parts of the image (which were not drawn with Terragen).<BR>
+	<A HREF="http://www.planetside.co.uk" TARGET="_blank">Visit PlanetSide - home of Terragen</A></P>
+	
+	<P><TABLE WIDTH=100%><TR><TD WIDTH=33% ALIGN=LEFT>
+		<A HREF="files.htm">&lt;-- Previous</A>
+	</TD><TD WIDTH=33% ALIGN=CENTER>
+		<A HREF="index.html">Contents</A>
+	</TD><TD WIDTH=33% ALIGN=RIGHT>
+		<A !HREF="">Next --></A>
+	</TD></TR></TABLE></P>
+</BODY>
+</HTML>

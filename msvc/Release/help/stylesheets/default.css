@@ -1,0 +1,185 @@
+BODY {
+	BACKGROUND-COLOR: #000000;
+	BACKGROUND-ATTACHMENT: fixed;
+	BACKGROUND-IMAGE: url(../images/backgrounds/starfield.jpg);
+	COLOR: #CCFFFF;
+	FONT-SIZE: 12pt;
+	SCROLLBAR-FACE-COLOR: #0066cc;
+	SCROLLBAR-HIGHLIGHT-COLOR: #0099cc;
+	SCROLLBAR-SHADOW-COLOR: #0033cc;
+	SCROLLBAR-3DLIGHT-COLOR: #0066cc;
+	SCROLLBAR-ARROW-COLOR: #cccccc;
+	SCROLLBAR-TRACK-COLOR: #003366;
+	SCROLLBAR-DARKSHADOW-COLOR: #000000;
+}
+
+IMG {
+	BORDER: none;
+}
+
+IMG.Double {
+	BORDER: #0066FF DOUBLE 3px;
+}
+
+TABLE {
+	BORDER: none;
+	PADDING: 0px;
+	MARGIN: 0px;
+}
+
+TABLE TD {
+	PADDING: 0px;
+	MARGIN: 0px;
+}
+
+TABLE.Visible {
+	BORDER-LEFT: #0066CC SOLID 5px;
+	BORDER-TOP: #0066CC SOLID 5px;
+	BORDER-RIGHT: #0033CC SOLID 5px;
+	BORDER-BOTTOM: #0033CC SOLID 5px;
+}
+
+TABLE.Visible TD {
+	BORDER: #0066FF SOLID 1px;
+	PADDING: 5px;
+}
+
+TABLE.Visible TD.Invisible {
+	BORDER: none;
+}
+
+TABLE.Visible TH {
+	BORDER: #0066FF SOLID 1px;
+	PADDING: 5px;
+}
+
+TABLE.Visible TH.Invisible {
+	BORDER: none;
+}
+
+TABLE.Thin {
+	BORDER-LEFT: #0066CC SOLID 1px;
+	BORDER-TOP: #0066CC SOLID 1px;
+	BORDER-RIGHT: #0033CC SOLID 1px;
+	BORDER-BOTTOM: #0033CC SOLID 1px;
+}
+
+TABLE.Thin TD {
+	BORDER: #0066FF SOLID 1px;
+}
+
+TABLE.Thin TD.Invisible {
+	BORDER: none;
+}
+
+TABLE.Thin TH {
+	BORDER: #0066FF SOLID 1px;
+}
+
+TABLE.Thin TH.Invisible {
+	BORDER: none;
+}
+
+TABLE.Double {
+	BORDER: #0066FF DOUBLE 3px;
+}
+
+A {
+	COLOR: #0099FF;
+}
+
+A.Visited {
+	COLOR: #0099FF;
+}
+
+A.Active {
+	COLOR: #0099FF;
+}
+
+A:hover {
+	COLOR: #AAFFFF;
+}
+
+H1 {
+	COLOR: #66CCFF;
+}
+
+H2 {
+	COLOR: #0099FF;
+}
+
+.BigLink
+{
+	FONT-SIZE: 27pt;
+	COLOR: #000000;
+	BACKGROUND-COLOR: #ff0000;
+	BORDER-TOP: #ffff00 thick double;
+	BORDER-LEFT: #00ffff thick double;
+	BORDER-RIGHT: #00ffff thick double;
+	BORDER-BOTTOM: #ffff00 thick double;
+	FONT-WEIGHT: bold;
+	TEXT-TRANSFORM: uppercase;
+	FONT-VARIANT: small-caps;
+	TEXT-DECORATION: none;
+}
+.BigLink:hover
+{
+	BORDER-RIGHT: #0000cc thick solid;
+	BORDER-TOP: #00ccff thick solid;
+	FONT-WEIGHT: bold;
+	TEXT-TRANSFORM: uppercase;
+	BORDER-LEFT: #0000cc thick solid;
+	COLOR: #00ff00;
+	BORDER-BOTTOM: #00ccff thick solid;
+	BACKGROUND-COLOR: #ff0000;
+	FONT-VARIANT: small-caps;
+	TEXT-DECORATION: none;
+}
+.StylishLink
+{
+	BORDER-RIGHT: #0000ff thick outset;
+	BORDER-TOP: #0000ff thick outset;
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 14pt;
+	TEXT-TRANSFORM: uppercase;
+	BORDER-LEFT: #0000ff thick outset;
+	COLOR: #ff0000;
+	BORDER-BOTTOM: #0000ff thick outset;
+	FONT-STYLE: italic;
+	BACKGROUND-COLOR: #00ff00;
+	FONT-VARIANT: small-caps;
+	TEXT-DECORATION: none;
+}
+.StylishLink:hover
+{
+	BORDER-RIGHT: #0000ff thick inset;
+	BORDER-TOP: #0000ff thick inset;
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 14pt;
+	TEXT-TRANSFORM: uppercase;
+	BORDER-LEFT: #0000ff thick inset;
+	COLOR: #00ff00;
+	BORDER-BOTTOM: #0000ff thick inset;
+	FONT-STYLE: italic;
+	BACKGROUND-COLOR: #ff0000;
+	FONT-VARIANT: small-caps;
+	TEXT-DECORATION: none;
+}
+.CoolHeading
+{
+	BORDER-RIGHT: #3333ff 5px outset;
+	PADDING-RIGHT: 10px;
+	BORDER-TOP: #3333ff 5px outset;
+	PADDING-LEFT: 10px;
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 20pt;
+	PADDING-BOTTOM: 10px;
+	MARGIN: 10px;
+	BORDER-LEFT: #3333ff 5px outset;
+	COLOR: #00ccff;
+	PADDING-TOP: 10px;
+	BORDER-BOTTOM: #3333ff 5px outset;
+	FONT-STYLE: italic;
+	FONT-VARIANT: small-caps;
+	TEXT-DECORATION: underline overline
+}

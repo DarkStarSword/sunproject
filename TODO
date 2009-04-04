@@ -1,0 +1,16 @@
+Sun Project Interactive TODO List
+
+* Port to g++ and remove dependency on windows
+* Decide on and port to platform independent widget library
+* Support libpng
+
+* Improve nebula/flares gradient support
+* Add colour mapping techniques to perlin noise routines
+* Add controls to tweak starfield generation
+* Add sunspots
+* Add new solar flare algorithms
+* Code to render black holes
+* Add animation scripting support
+* Asteroid rendering
+* Planet rendering
+* Shading from sun casting shadows
